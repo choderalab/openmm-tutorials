@@ -1,6 +1,6 @@
 # Python tutorials for OpenMM
 
-This guide is a set of [Jupyter notebooks](http://jupyter.readthedocs.io/) that will help you get up and running quickly with OpenMM and Python.
+This guide is a set of [Jupyter notebooks](http://jupyter.readthedocs.io/) intended to help researchers already familiar with molecular dynamics simulation learn how to use OpenMM in their research and software projects.
 
 ## Getting started
 
