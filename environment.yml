@@ -1,0 +1,9 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://conda.anaconda.org/omnia/osx-64/mdtraj-1.8.0-np111py35_1.tar.bz2
+https://conda.anaconda.org/omnia/osx-64/nglview-0.6.2.3-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/numpy-1.11.3-py35_blas_openblas_202.tar.bz2
+https://conda.anaconda.org/omnia/osx-64/openmm-7.1.1-py35_0.tar.bz2
+https://conda.anaconda.org/omnia/osx-64/openmmtools-0.12.1-py35_0.tar.bz2
